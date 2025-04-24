@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Gender,Experience
+Maya,25.0,50000.0,HR,Female,1.5
+Bhup,30.0,62000.0,IT,Male,2.0
+Chandra,28.0,,Sales,Male,
+Dinsha,,70000.0,HR,Female,4.8
+Dinesh,40.0,72000.0,IT,Male,5.0
+Fida,30.0,68000.0,Finance,Female,3.5
+Geetansh,22.0,48000.0,HR,Male,0.5
+Hina,,69000.0,Finance,Female,0.3
+Ishaan,33.0,71000.0,Sales,Male,
+Jaya,,73000.0,IT,Female,4.5

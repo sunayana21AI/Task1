@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Gender,Experience
+Alice,25.0,50000.0,HR,Female,1.5
+Bob,,62000.0,IT,Male,2.0
+Charlie,28.0,,Marketing,Male,1.0
+Diana,35.0,70000.0,HR,Female,
+Ethan,40.0,72000.0,IT,Male,5.0
+Fiona,30.0,68000.0,Marketing,Female,3.5
+George,22.0,48000.0,HR,Male,0.5
+Hannah,29.0,69000.0,IT,Female,3.0
+Ian,33.0,71000.0,Marketing,Male,4.0
+Jane,,73000.0,HR,Female,4.5
